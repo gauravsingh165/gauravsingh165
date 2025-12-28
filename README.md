@@ -21,16 +21,6 @@ I work where things actually break:
 
 I fix those.
 
----
-
-## 🔭 Currently Focused On
-
-- Writing **clean, scalable backend code**
-- Improving **system design & performance**
-- Deepening **AWS, Docker & CI/CD**
-- Preparing for **backend-heavy roles**
-
----
 
 ## 🧰 Tech Stack
 
