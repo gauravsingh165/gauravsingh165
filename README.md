@@ -26,23 +26,41 @@ I fix those.
 
 ### 🧠 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=ruby,rails,redis,postgres,mysql,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=ruby" title="Ruby" />
+  <img src="https://skillicons.dev/icons?i=rails" title="Ruby on Rails" />
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" title="Elasticsearch" />
 </p>
 
 ### ⚙️ DevOps & Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services (AWS)" />
+  <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions (CI/CD)" />
 </p>
+
 
 ### 🎨 Frontend (Working Knowledge)
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=vue" title="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=nuxt" title="Nuxt.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" />
 </p>
+
 
 ### 🧪 Testing & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git Version Control" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
 </p>
+
 
 ---
 
