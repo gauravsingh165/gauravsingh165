@@ -1,156 +1,120 @@
-# 👋 Gaurav Singh
+<h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
+<h3 align="center">Backend-Focused Ruby on Rails Engineer | SaaS | APIs | AWS</h3>
 
-**Backend-focused Ruby on Rails Engineer** with 2+ years of real-world experience building, deploying, and maintaining production SaaS applications.
-
-I work close to the metal — APIs, databases, background jobs, deployments, and production debugging.  
-No tutorial fluff. No buzzword padding. Just systems that work.
-
----
-
-## 🧠 What I Do Well
-
-- Build **scalable backend systems** using Ruby on Rails  
-- Design and maintain **RESTful APIs** with proper versioning  
-- Implement **background processing** using Sidekiq & Redis  
-- Work with **relational databases** (PostgreSQL, MySQL) and optimize queries  
-- Deploy containerized applications using **Docker on AWS EC2**  
-- Debug real **production issues** (logs, performance, failures)
-- Integrate authentication, authorization, payments, and third-party services
+<p align="center">
+  <a href="https://github.com/gauravsingh165">
+    <img src="https://komarev.com/ghpvc/?username=gauravsingh165&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
 ---
 
-## 🛠 Tech Stack (Hands-On)
+## 👨‍💻 About Me
 
-### Backend
-- Ruby, Ruby on Rails  
-- REST APIs, MVC, ActiveRecord  
-- Sidekiq, Redis  
-- ElasticSearch  
+Backend-focused **Ruby on Rails Engineer with 2+ years of real production experience** building SaaS platforms, REST APIs, background processing systems, and multi-role applications.
 
-### Databases
-- PostgreSQL  
-- MySQL  
+I work where things actually break:
+- APIs under load  
+- Background jobs failing silently  
+- DB queries killing performance  
+- Deployments going wrong at 2 AM  
 
-### DevOps & Infrastructure
-- Docker  
-- AWS (EC2, S3)  
-- Nginx  
-- CI/CD (GitHub Actions, GitLab CI)  
-- Heroku  
-
-### Auth & Security
-- Devise  
-- Rodauth  
-- OAuth2  
-- Pundit  
-
-### Frontend (Working Knowledge)
-- HTML, CSS, JavaScript  
-- Vue.js, Nuxt.js  
-- Turbo, Tailwind CSS  
-
-### Testing
-- RSpec  
+I fix those.
 
 ---
 
-## 💼 Professional Experience
+## 🔭 Currently Focused On
 
-### **Software Engineer (Ruby on Rails)**  
-**Ongraph Technologies** — Noida, India  
-*Jun 2023 – Jun 2025*
-
-- Developed backend features for SaaS platforms using Rails, PostgreSQL, Redis, and Sidekiq  
-- Optimized database queries and caching to improve API response times  
-- Designed background jobs for emails, notifications, and third-party sync  
-- Integrated payment gateways, SMS services, and OAuth authentication  
-- Built responsive UI components using HTML, CSS, JavaScript, Tailwind, Bootstrap  
-- Dockerized applications and deployed on AWS EC2 with Nginx and CI/CD  
-- Added RSpec tests for critical workflows to reduce production regressions  
+- Writing **clean, scalable backend code**
+- Improving **system design & performance**
+- Deepening **AWS, Docker & CI/CD**
+- Preparing for **backend-heavy roles**
 
 ---
 
-### **Full Stack Developer**  
-**OnPharma** — Remote  
-*Jul 2025 – Dec 2025*
+## 🧰 Tech Stack
 
-- Worked on a healthcare SaaS platform for pharmacy-patient appointment workflows  
-- Built backend modules with **role-based access control**  
-- Designed versioned REST APIs  
-- Implemented real-time updates using ActionCable  
-- Used Rodauth for secure multi-role authentication  
-- Deployed services using Docker, Redis, Sidekiq, and AWS  
+### 🧠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=ruby,rails,redis,postgres,mysql,elasticsearch" />
+</p>
 
----
+### ⚙️ DevOps & Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux,githubactions" />
+</p>
 
-## 🚀 Key Projects
+### 🎨 Frontend (Working Knowledge)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nuxt,tailwind" />
+</p>
 
-### **Spina Sell**
-*Ruby on Rails, JavaScript, Turbo*  
-- Real-estate listing platform with dynamic property models  
-- Search filters, OAuth social login, WebSocket-based updates  
-- Dockerized and deployed on AWS EC2 with Nginx  
-
----
-
-### **Soorse**  
-*Ruby on Rails, JavaScript, Stripe, Sendbird*  
-🔗 https://www.soorse.com/
-
-- Chat and event management platform  
-- Background job processing for notifications  
-- QR-based onboarding flows  
-- Admin dashboards and role-based controls  
+### 🧪 Testing & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
 ---
 
-### **Global CBS**  
-*Ruby on Rails, Pundit, Geolocation*  
-🔗 https://global.cbs.ge
+## 🚀 Featured Projects
 
-- Multi-role CRM with granular authorization policies  
-- Reporting, scheduling, and Docker-based deployment  
+### 🔹 Soorse  
+🔗 https://www.soorse.com  
+**Ruby on Rails | Stripe | Sendbird | Sidekiq**
 
----
-
-### **Study Abroad Portal**  
-*Ruby on Rails, ElasticSearch*  
-
-- University discovery platform with faceted search  
-- ElasticSearch-powered filtering  
-- Role-based onboarding and recommendations  
-
----
-
-### **OnPharma – Appointment Management System**  
-*Ruby on Rails, Vue.js, Nuxt.js*  
-🔗 https://onpharma.org/
-
-- Appointment booking and rescheduling workflows  
-- Real-time updates using ActionCable  
+- Chat & event management platform  
 - Background jobs for notifications  
-- Production deployment using Docker, Redis, Sidekiq, and AWS  
+- QR-based onboarding  
+- Admin dashboards & role-based access  
 
 ---
 
-## 🎓 Education
+### 🔹 Global CBS  
+🔗 https://global.cbs.ge  
+**Ruby on Rails | Pundit | Geolocation**
 
-**Bachelor of Technology (Computer Science Engineering)**  
-Raj Kumar Goel Institute of Technology  
-2019 – 2023
-
----
-
-## 📫 Contact
-
-- 📍 Noida, Uttar Pradesh, India  
-- 📧 Gaurav15199singh@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/gaurav091  
-- 🐙 GitHub: https://github.com/gauravsingh165  
+- Multi-role CRM system  
+- Granular authorization policies  
+- Reporting & scheduling modules  
 
 ---
 
-### ⚠️ Final Note
+### 🔹 OnPharma – Appointment Management  
+🔗 https://onpharma.org  
+**Rails | Vue.js | Nuxt.js | ActionCable**
 
-I focus on **depth, reliability, and production readiness** — not hype.  
-If your team values engineers who understand **how systems actually behave in production**, we’ll get along.
+- Appointment booking & rescheduling  
+- Real-time updates  
+- Secure multi-role authentication  
+- Deployed on AWS with Docker & Redis  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravsingh165&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravsingh165&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/gaurav091">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:Gaurav15199singh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+### ⚠️ Straight Talk
+
+I’m not chasing hype stacks or fake titles.  
+I care about **systems that work in production**.
+
+If that’s what your team values — we should talk.
